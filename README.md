@@ -1,9 +1,9 @@
 # 💫 About Me: 
-🔭 Currently working on ML-based projects focusing on sustainability and real-world problem solving.<br>  
-🧠 Exploring data-driven approaches using Python, Power BI, and modern AI tools.<br>  
-🤝 Open to collaboration in data science, ML hackathons, and open-source contributions.<br>  
-📈 Eager to dive deeper into advanced machine learning, model optimization, and deployment.<br>  
-🌱 Actively learning Data Structures & Algorithms (DSA) and AI tools to strengthen core problem-solving skills.<br>  
+🔭 Currently working on ML-based projects focusing on sustainability and real-world problem solving.
+🧠 Exploring data-driven approaches using Python, Power BI, and modern AI tools.
+🤝 Open to collaboration in data science, ML hackathons, and open-source contributions.
+📈 Eager to dive deeper into advanced machine learning, model optimization, and deployment.
+🌱 Actively learning Data Structures & Algorithms (DSA) and AI tools to strengthen core problem-solving skills.
 📊 Passionate about transforming raw data into meaningful visual stories using tools like Power BI and Seaborn.  
 
 ---
@@ -41,9 +41,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UtkarshJain05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJain05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=UtkarshJain05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJain05&theme=highcontrast&hide_border=false&layout=compact&langs_count=10)
 
 ---
 
