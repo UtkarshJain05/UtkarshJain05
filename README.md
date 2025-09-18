@@ -40,11 +40,11 @@
 
 ---
 
-# 📊 Utkarsh Jain’s GitHub Stats:
+# 📊 Utkarsh Jain's GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)
-![Followers](https://img.shields.io/github/followers/UtkarshJain05?label=Followers&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/UtkarshJain05?label=Stars&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=for-the-badge)
+![Utkarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshJain05&theme=react-dark)
+![Metrics](https://metrics.lecoq.io/UtkarshJain05?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0)
+
 
 
 
