@@ -1,10 +1,10 @@
 # 💫 About Me: 
-🔭 Currently working on ML-based projects focusing on sustainability and real-world problem solving.
-🧠 Exploring data-driven approaches using Python, Power BI, and modern AI tools.
-🤝 Open to collaboration in data science, ML hackathons, and open-source contributions.
-📈 Eager to dive deeper into advanced machine learning, model optimization, and deployment.
-🌱 Actively learning Data Structures & Algorithms (DSA) and AI tools to strengthen core problem-solving skills.
-📊 Passionate about transforming raw data into meaningful visual stories using tools like Power BI and Seaborn.  
+🔭 Currently working on ML-based projects focusing on sustainability and real-world problem solving.<br>
+🧠 Exploring data-driven approaches using Python, Power BI, and modern AI tools.<br>
+🤝 Open to collaboration in data science, ML hackathons, and open-source contributions.<br>
+📈 Eager to dive deeper into advanced machine learning, model optimization, and deployment.<br>
+🌱 Actively learning Data Structures & Algorithms (DSA) and AI tools to strengthen core problem-solving skills.<br>
+📊 Passionate about transforming raw data into meaningful visual stories using tools like Power BI and Seaborn.
 
 ---
 
