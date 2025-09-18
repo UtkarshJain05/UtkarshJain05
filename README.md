@@ -44,14 +44,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)
 ![Utkarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshJain05&theme=react-dark)
 ![Utkarsh's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshJain05&theme=github_dark)
-# 📊 Utkarsh Jain's GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)
-
-![Utkarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshJain05&theme=react-dark)
-
-![GitHub Snake](https://github.com/UtkarshJain05/UtkarshJain05/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
