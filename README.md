@@ -34,10 +34,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UtkarshJain05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJain05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 Utkarsh Jain's GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UtkarshJain05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UtkarshJain05&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJain05&theme=highcontrast&hide_border=false&layout=compact&langs_count=10)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UtkarshJain05&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
