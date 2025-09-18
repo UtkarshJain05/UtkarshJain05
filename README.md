@@ -42,6 +42,9 @@
 
 # 📊 Utkarsh Jain’s GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)
+![Utkarsh's Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=UtkarshJain05.UtkarshJain05)
+![Utkarsh's Profile Activity](https://profile-activity.vercel.app/UtkarshJain05)  
+
 
 ---
 
