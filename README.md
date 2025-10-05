@@ -48,7 +48,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UtkarshJain05&theme=darkhub&no-frame=false&no-bg=false&margin-w)  
+![](https://github-profile-trophy.vercel.app/?username=UtkarshJain05&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
 
