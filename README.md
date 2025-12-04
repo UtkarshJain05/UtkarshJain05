@@ -46,8 +46,7 @@
 <br>
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshJain05&theme=github_dark)
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshJain05&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshJain05&show_icons=true&theme=github_dark)
-![Utkarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshJain05&theme=react-dark)
+![Metrics](https://metrics.lecoq.io/UtkarshJain05?template=classic&base=activity&base.indepth=true&config.timezone=Asia%2FKolkata)
 
 
 ---
