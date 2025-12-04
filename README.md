@@ -46,8 +46,6 @@
 <br>
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshJain05&theme=github_dark)
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshJain05&theme=github_dark)
-![Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshJain05&theme=github_dark)
-
 
 
 ---
