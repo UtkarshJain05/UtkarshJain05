@@ -41,9 +41,14 @@
 ---
 
 # 📊 Utkarsh Jain's GitHub Stats:
-![Utkarsh's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshJain05&theme=github_dark)
-![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)
-![Utkarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshJain05&theme=react-dark)
+<!-- Profile details -->
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshJain05&theme=github_dark)
+
+<!-- Contribution graph -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshJain05&theme=react-dark)
+
+<!-- Streak (alternative) -->
+![Streak stats](https://github-readme-stats.vercel.app/api?username=UtkarshJain05&show_icons=true&theme=dark)
 
 ---
 
