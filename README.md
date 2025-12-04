@@ -47,7 +47,7 @@
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshJain05&theme=github_dark)
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshJain05&theme=github_dark)
 ![Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshJain05&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshJain05&show_icons=true&count_private=true&theme=github_dark)
+![Snake Animation](https://github.com/UtkarshJain05/UtkarshJain05/blob/output/github-contribution-grid-snake.svg)
 
 
 
