@@ -46,7 +46,7 @@
 <br>
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshJain05&theme=github_dark)
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshJain05&theme=github_dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=UtkarshJain05&theme=radical&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+![Skyline](https://github.com/UtkarshJain05/UtkarshJain05/raw/main/skyline-2024.png)
 
 
 
