@@ -42,7 +42,7 @@
 
 # 📊 Utkarsh Jain's GitHub Stats:
 ![Utkarsh's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshJain05&theme=github_dark)
-![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshJain05&theme=github_dark)
 <br>
 ![Contribution Heatmap](https://ghchart.rshah.org/UtkarshJain05)
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshJain05&theme=github_dark)
