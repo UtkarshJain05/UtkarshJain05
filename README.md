@@ -45,6 +45,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=UtkarshJain05&theme=highcontrast&hide_border=false)
 <br>
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshJain05&theme=github_dark)
+![Contribution Heatmap](https://ghchart.rshah.org/UtkarshJain05)
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshJain05&theme=github_dark)
 
 
