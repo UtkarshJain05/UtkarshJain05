@@ -48,5 +48,5 @@
 
 
 ---
-### 🧭 Current Focus
-![Focus](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&pause=1200&color=F7D046&width=700&lines=Power+BI+Dashboarding;Data+Storytelling;Machine+Learning;DSA+Problem+Solving)
+### 🪪 Developer Identity
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshJain05&theme=github_dark)
