@@ -49,5 +49,5 @@
 
 ---
 
-### 🔝 Featured Repositories
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=UtkarshJain05&repo=Power-BI&theme=dark)
+### 🔝 GitHub Contribution Overview
+![Utkarsh's GitHub Contribution Calendar](https://ghchart.rshah.org/UtkarshJain05)
