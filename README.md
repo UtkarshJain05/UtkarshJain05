@@ -48,5 +48,6 @@
 
 
 ---
-![Metrics](https://metrics.lecoq.io/UtkarshJain05?template=classic&base.header=0)
+### 📊 GitHub Metrics Overview
+![Metrics](https://metrics.lecoq.io/UtkarshJain05?template=terminal&base.header=0&base.metadata=0)
 
