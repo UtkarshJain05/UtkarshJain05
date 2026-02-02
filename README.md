@@ -48,5 +48,5 @@
 
 
 ---
-### ⏱️ Coding Activity (WakaTime)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=UtkarshJain05)
+### 🌆 GitHub Skyline
+![Skyline](https://skyline.github.com/UtkarshJain05/2024.png)
