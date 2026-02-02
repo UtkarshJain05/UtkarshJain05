@@ -48,5 +48,4 @@
 
 
 ---
-### 📈 Contribution Breakdown
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshJain05&theme=github_dark)
+![Timeline](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshJain05&theme=github_dark)
