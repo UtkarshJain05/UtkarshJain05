@@ -48,6 +48,5 @@
 
 
 ---
-### ⏳ Contribution Timeline
-![Timeline](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshJain05&theme=github_dark)
-
+### ⏱️ Coding Activity (WakaTime)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=UtkarshJain05)
