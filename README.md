@@ -48,5 +48,5 @@
 
 
 ---
-### 💬 Stack Overflow
-![Stack Overflow Flair](https://stackoverflow.com/users/flair/USER_ID.png)
+### ✍️ Writing Activity
+![Dev.to](https://dev.to/social_previews/UtkarshJain05.png)
