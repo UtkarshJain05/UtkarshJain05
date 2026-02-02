@@ -50,4 +50,6 @@
 ---
 ### ⏱️ Coding Journey
 ![Coding Activity](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&width=700&lines=Data+Analytics+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Insights;Learning+Every+Day+%F0%9F%9A%80)
+### 💡 Developer Mindset
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
