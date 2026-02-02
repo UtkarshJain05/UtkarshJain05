@@ -48,5 +48,7 @@
 
 
 ---
-### 🔝 Contribution Activity
-![GitHub Snake](https://github.com/UtkarshJain05/UtkarshJain05/blob/output/github-contribution-grid-snake.svg)
+### 🔝 Profile Engagement
+![Profile Views](https://komarev.com/ghpvc/?username=UtkarshJain05&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/UtkarshJain05?style=for-the-badge)
+
