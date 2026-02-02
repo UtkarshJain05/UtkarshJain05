@@ -48,5 +48,6 @@
 
 
 ---
-### 🌆 GitHub Skyline
-![Skyline](https://skyline.github.com/UtkarshJain05/2024.png)
+### 🧊 3D Contribution View
+![3D Contributions](https://raw.githubusercontent.com/jojoee/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg)
+
