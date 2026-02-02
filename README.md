@@ -48,6 +48,5 @@
 
 
 ---
-### 🧊 3D Contribution View
-![3D Contributions](https://raw.githubusercontent.com/jojoee/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg)
-
+### 💬 Stack Overflow
+![Stack Overflow Flair](https://stackoverflow.com/users/flair/USER_ID.png)
