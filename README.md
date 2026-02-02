@@ -48,6 +48,5 @@
 
 
 ---
-### 📊 GitHub Metrics Overview
-![Metrics](https://metrics.lecoq.io/UtkarshJain05?template=terminal&base.header=0&base.metadata=0)
-
+### 🧠 Language Activity
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshJain05&theme=github_dark)
