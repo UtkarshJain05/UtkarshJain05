@@ -48,6 +48,5 @@
 
 
 ---
-
-### 🔝 GitHub Contribution Overview
-![Utkarsh's GitHub Contribution Calendar](https://ghchart.rshah.org/UtkarshJain05)
+### 🔝 Contribution Activity
+![GitHub Snake](https://github.com/UtkarshJain05/UtkarshJain05/blob/output/github-contribution-grid-snake.svg)
