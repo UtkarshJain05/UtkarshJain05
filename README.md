@@ -49,5 +49,5 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UtkarshJain05&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+### 🔝 Featured Repositories
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=UtkarshJain05&repo=Power-BI&theme=dark)
