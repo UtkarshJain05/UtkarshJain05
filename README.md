@@ -48,5 +48,5 @@
 
 
 ---
-### 🪪 Developer Identity
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshJain05&theme=github_dark)
+![Metrics](https://metrics.lecoq.io/UtkarshJain05?template=classic&base.header=0)
+
