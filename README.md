@@ -49,4 +49,4 @@
 
 ---
 ### 🧭 Current Focus
-![Focus](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&pause=1200&color=F7D046&width=700&lines=Power+BI+Dashboarding;Data+Storytelling;Machine+Learning;DSA+Problem+Solving)
+![Focus](https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=1200&color=F7D046&width=700&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%26+Deep+Learning;Building+Unique+GenAI+Projects;Developing+Intelligent+QnA+Bots)
