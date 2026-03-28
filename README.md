@@ -4,7 +4,7 @@
 🤝 Open to collaboration in data science, ML hackathons, and open-source contributions.<br>
 📈 Eager to dive deeper into advanced machine learning, model optimization, and deployment.<br>
 🌱 Actively learning Data Structures & Algorithms (DSA) and AI tools to strengthen core problem-solving skills.<br>
-📊 Passionate about transforming raw data into meaningful visual stories using tools like Power BI and Seaborn.
+📊 Passionate about transforming raw data into meaningful visual stories using tools like Power BI and Seaborn. 
 
 ---
 
