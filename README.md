@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me:
 🔭 Currently working on ML-based projects focusing on sustainability and real-world problem solving.<br>
 🧠 Exploring data-driven approaches using Python, Power BI, and modern AI tools.<br>
 🤝 Open to collaboration in data science, ML hackathons, and open-source contributions.<br>
