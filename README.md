@@ -9,12 +9,12 @@
 📊 Passionate about transforming raw data into interactive dashboards using tools like Power BI and DAX.<br>
 ⚙️ Experienced in automating deployments using GitHub Actions and architecting serverless databases for continuous availability.<br>
 🤝 Open to collaboration in data science, ML hackathons, full-stack AI projects, and open-source contributions. -->
-🔭 Building full-stack RAG apps using LLMs and end-to-end analytical pipelines.
-🧠 Specializing in Data Analytics, ML, and AI systems with clean architecture.
-💻 Actively solving DSA; 250+ optimized problems maintained locally on GitHub.
-🏆 Hackathons: NASA Space Apps '24 Finalist & Deloitte Hacksplosion '26 L1.
-📊 Transforming raw data into interactive dashboards using Power BI and DAX.
-⚙️ Automating deployments via GitHub Actions and architecting serverless DBs.
+🔭 Building full-stack RAG apps using LLMs and end-to-end analytical pipelines.<br>
+🧠 Specializing in Data Analytics, ML, and AI systems with clean architecture.<br>
+💻 Actively solving DSA; 250+ optimized problems maintained locally on GitHub.<br>
+🏆 Hackathons: NASA Space Apps '24 Finalist & Deloitte Hacksplosion '26 L1.<br>
+📊 Transforming raw data into interactive dashboards using Power BI and DAX.<br>
+⚙️ Automating deployments via GitHub Actions and architecting serverless DBs.<br>
 🤝 Open to collaboration in Data Science, ML hackathons, and AI projects.
 
 ---
