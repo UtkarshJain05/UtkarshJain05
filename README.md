@@ -1,6 +1,8 @@
 <h1 align="center">⚡print("Hello, World! 👋 I'm Utkarsh")</h1>
 <h3 align="center">Crushing DSA Problems & Innovating at the Intersection of Data & AI 🌐</h3>
 
+---
+
 # 💫 About Me: 
 🔭 Building full-stack RAG apps using LLMs and end-to-end analytical pipelines.<br>
 🧠 Specializing in Data Analytics, ML, and AI systems with clean architecture.<br>
