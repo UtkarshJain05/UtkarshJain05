@@ -1,5 +1,5 @@
 <h1 align="center">⚡print("Hello, World! 👋 I'm Utkarsh")</h1>
-<h3 align="center">Innovating at the Intersection of Data & AI 🌐 & Crushing DSA Problems 💻</h3>
+<h3 align="center">Innovating at the Intersection of Data & AI 🌐</h3>
 
 # 💫 About Me: 
 🔭 Currently building full-stack Retrieval-Augmented Generation (RAG) applications using LLMs and end-to-end analytical pipelines.<br>
