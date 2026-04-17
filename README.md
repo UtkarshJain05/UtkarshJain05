@@ -35,7 +35,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23E6E6E6.svg?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-F58025?style=for-the-badge&color=grey)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-black?style=for-the-badge&logo=huggingface&logoColor=yellow)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-343A40?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
