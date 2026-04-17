@@ -1,5 +1,5 @@
-#<!-- <h1 align="center">⚡print("Hello, World! 👋 I'm Utkarsh")</h1>
-<h3 align="center">Architecting Serverless AI Workflows & Crushing DSA Problems 💻</h3> -->
+<h1 align="center">⚡print("Hello, World! 👋 I'm Utkarsh")</h1>
+<h3 align="center">Architecting Serverless AI Workflows & Crushing DSA Problems 💻</h3>
 
 # 💫 About Me: 
 🔭 Currently building full-stack Retrieval-Augmented Generation (RAG) applications using LLMs and end-to-end analytical pipelines.<br>
