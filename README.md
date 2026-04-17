@@ -2,13 +2,20 @@
 <h3 align="center">Crushing DSA Problems & Innovating at the Intersection of Data & AI 🌐</h3>
 
 # 💫 About Me: 
-🔭 Currently building full-stack Retrieval-Augmented Generation (RAG) applications using LLMs and end-to-end analytical pipelines.<br>
+<!-- 🔭 Currently building full-stack Retrieval-Augmented Generation (RAG) applications using LLMs and end-to-end analytical pipelines.<br>
 🧠 Specializing in Data Analytics, Machine Learning, and AI-driven systems with a focus on clean architecture and reproducible workflows.<br>
 💻 Actively solving Data Structures & Algorithms (DSA) problems; 250+ optimized problems maintained locally on GitHub.<br>
 🏆 Hackathons: NASA Space Apps '24 Finalist & Deloitte Hacksplosion '26 - cleared Level 1 (Coding Round).<br>
 📊 Passionate about transforming raw data into interactive dashboards using tools like Power BI and DAX.<br>
 ⚙️ Experienced in automating deployments using GitHub Actions and architecting serverless databases for continuous availability.<br>
-🤝 Open to collaboration in data science, ML hackathons, full-stack AI projects, and open-source contributions.
+🤝 Open to collaboration in data science, ML hackathons, full-stack AI projects, and open-source contributions. -->
+🔭 Building full-stack RAG apps using LLMs and end-to-end analytical pipelines.
+🧠 Specializing in Data Analytics, ML, and AI systems with clean architecture.
+💻 Actively solving DSA; 250+ optimized problems maintained locally on GitHub.
+🏆 Hackathons: NASA Space Apps '24 Finalist & Deloitte Hacksplosion '26 L1.
+📊 Transforming raw data into interactive dashboards using Power BI and DAX.
+⚙️ Automating deployments via GitHub Actions and architecting serverless DBs.
+🤝 Open to collaboration in Data Science, ML hackathons, and AI projects.
 
 ---
 
