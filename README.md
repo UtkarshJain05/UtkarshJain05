@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I am Utkarsh Jain.</h1>
 
 # 💫 About Me: 
-🔭 Building full-stack RAG apps using LLMs and end-to-end analytical pipelines.<br>
-🧠 Specializing in Data Analytics, ML, and AI systems with clean architecture.<br>
-💻 Actively solving DSA; 250+ optimized problems maintained locally on GitHub.<br>
-🏆 Hackathons: NASA Space Apps '24 Finalist & Deloitte Hacksplosion '26 L1.<br>
-📊 Transforming raw data into interactive dashboards using Power BI and DAX.<br>
-⚙️ Automating deployments via GitHub Actions and architecting serverless DBs.<br>
-🤝 Open to collaboration in Data Science, ML hackathons, and AI projects.<br>
+🔭 Currently building full-stack Retrieval-Augmented Generation (RAG) applications using LLMs and end-to-end analytical pipelines.<br>
+🧠 Specializing in Data Analytics, Machine Learning, and AI-driven systems with a focus on clean architecture and reproducible workflows.<br>
+💻 Actively solving Data Structures & Algorithms (DSA) problems; 250+ optimized problems maintained locally on GitHub.<br>
+🏆 Hackathons: NASA Space Apps '24 Finalist & Deloitte Hacksplosion '26 - cleared Level 1 (Coding Round).<br>
+📊 Passionate about transforming raw data into interactive dashboards using tools like Power BI and DAX.<br>
+⚙️ Experienced in automating deployments using GitHub Actions and architecting serverless databases for continuous availability.<br>
+🤝 Open to collaboration in data science, ML hackathons, full-stack AI projects, and open-source contributions.
 
 ---
 
@@ -24,6 +24,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -57,25 +58,6 @@
 ![Focus](https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=1200&color=F7D046&width=700&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+RAG+Applications;Data+Analytics+%26+Visualization;Developing+Advanced+AI+Workflows)
 
 
-# Hi, I am Utkarsh Jain.
-
-# 💫 About Me: 
-🔭 Currently building full-stack Retrieval-Augmented Generation (RAG) applications using LLMs and developing end-to-end analytical pipelines.<br>
-🧠 Specializing in Data Analytics, Machine Learning, and AI-driven systems with a focus on clean architecture and reproducible workflows.<br>
-💻 Actively solving Data Structures & Algorithms (DSA) problems; I've optimized 250+ problems which I maintain locally in my GitHub repositories.<br>
-🏆 Hackathon Competitor: Finalist at the NASA Space Apps Challenge 2024 (AGRIAURA) and cleared Level 1 (Coding Round) of the Deloitte Hacksplosion 2026.<br>
-📊 Passionate about transforming raw data into interactive dashboards using tools like Power BI and DAX.<br>
-⚙️ Experienced in automating deployments using GitHub Actions and architecting serverless databases for continuous availability.<br>
-🤝 Open to collaboration in data science, ML hackathons, full-stack AI projects, and open-source contributions.
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jain.utkarsh_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-jain-5605-uj) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jain.utkarsh.5605@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-%23212121.svg?logo=codeigniter&logoColor=white)](https://codolio.com/profile/UtkarshJain)
-
 ---
 
 # 💻 Tech Stack:
@@ -83,7 +65,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -94,7 +75,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23E6E6E6.svg?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-F58025?style=for-the-badge&color=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-F58025?style=for-the-badge&color=grey)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
