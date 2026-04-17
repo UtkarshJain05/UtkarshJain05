@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I am Utkarsh Jain.</h1>
-
+<!-- <h1 align="center">Hi, I am Utkarsh Jain.</h1> -->
 # 💫 About Me: 
 🔭 Currently building full-stack Retrieval-Augmented Generation (RAG) applications using LLMs and end-to-end analytical pipelines.<br>
 🧠 Specializing in Data Analytics, Machine Learning, and AI-driven systems with a focus on clean architecture and reproducible workflows.<br>
