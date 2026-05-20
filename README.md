@@ -15,11 +15,11 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jain.utkarsh_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-jain-5605-uj) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://utkarshjain.vercel.app)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jain.utkarsh.5605@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-%23212121.svg?logo=codeigniter&logoColor=white)](https://codolio.com/profile/UtkarshJain)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jain.utkarsh_) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jain.utkarsh.5605@gmail.com)
 
 ---
 
