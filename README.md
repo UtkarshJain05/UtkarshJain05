@@ -4,9 +4,9 @@
 ---
 
 # 💫 About Me: 
+💻 Actively solving DSA; 300+ optimized problems.<br>
 🔭 Building full-stack RAG apps using LLMs and end-to-end analytical pipelines.<br>
 🧠 Specializing in Data Analytics, ML, and AI systems with clean architecture.<br>
-💻 Actively solving DSA; 300+ optimized problems.<br>
 🏆 Hackathons: NASA Space Apps '24 Finalist & Deloitte Hacksplosion '26 L1.<br>
 📊 Transforming raw data into interactive dashboards using Power BI and DAX.<br>
 ⚙️ Automating deployments via GitHub Actions and architecting serverless DBs.<br>
